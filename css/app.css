@@ -1,0 +1,27 @@
+.img-tienda {
+  width: 100vw;
+  height: 80vh;
+}
+
+h5, h3, p {
+  text-align: center;
+}
+
+.avatar {
+  width: 200px;
+  height: 200px;
+}
+
+.opinion {
+  text-align: left;
+}
+
+.thumbnail2 {
+  display: inline-block;
+  max-width: 165px;
+  height: 165px;
+  margin-bottom: 1rem;
+  border: solid 4px #fefefe;
+  border-radius: 3px;
+  box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
+  line-height: 0; }
